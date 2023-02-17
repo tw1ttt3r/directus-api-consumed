@@ -1,0 +1,24 @@
+{
+  "name": "directus-api-consumed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tw1ttt3r/directus-api-consumed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tw1ttt3r/directus-api-consumed/issues"
+  },
+  "homepage": "https://github.com/tw1ttt3r/directus-api-consumed#readme",
+  "dependencies": {
+    "@directus/sdk": "^10.3.1",
+    "dotenv": "^16.0.3"
+  }
+}
